@@ -1,4 +1,4 @@
-’m a software engineer with a strong foundation in computer science, specializing in web development, AI/ML frameworks, and data structures & algorithms. I focus on building responsive, scalable, and user-centric digital solutions—ranging from real-time AI assistants to cloud-integrated web platforms.
+I’m a software engineer with a strong foundation in computer science, specializing in web development, AI/ML frameworks, and data structures & algorithms. I focus on building responsive, scalable, and user-centric digital solutions—ranging from real-time AI assistants to cloud-integrated web platforms.
 ⚙️ Technical Skills
 Programming Languages & Algorithms
 - C++, Java, JavaScript
